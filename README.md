@@ -7,7 +7,7 @@ Perfect for beginners learning DOM manipulation and event handling.
 ---
 
 ## 📸 Screenshot
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot1.png)
 
 ---
 
