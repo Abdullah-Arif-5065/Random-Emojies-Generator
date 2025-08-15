@@ -1,0 +1,31 @@
+.emojie{
+    
+    font-size: 540px;
+    cursor:pointer;
+    transition-property: transform, filter;
+    transition-duration: 200ms;
+    /* filter:grayscale(1); */
+
+}
+
+#i{
+    font-style:italic;
+    color: rgb(105, 18, 37);
+    text-shadow: 2px;
+    box-shadow: 5px,chocolate;
+    font-size: 45px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    size: 1000px;
+    background-color: blueviolet;
+}
+
+.emojie:hover{
+    transform: scale(1.2);
+    filter: grayscale(0);
+}
+
